@@ -1,1 +1,3 @@
 # Urban-Heat-Equity-Analysis-proj
+
+Urban heat island exposure and social vulnerability. Combine Landsat or ECOSTRESS land surface temperature with census tract demographics and tree canopy data to test whether heat exposure falls disproportionately on low-income or minority neighborhoods. You could add historical redlining maps (Mapping Inequality, HOLC) to see whether 1930s grades still predict today’s heat. Methods: raster processing, zonal statistics, spatial regression (GWR or spatial lag models). Contribution: compare cities, or model which interventions such as tree planting or cool roofs would cut exposure most.
